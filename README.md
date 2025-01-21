@@ -1,6 +1,6 @@
 # RRG-Mamba
 **This is the data and code for our paper** `RRG-Mamba: Efficient Radiology
-Report Generation with State Space Model `.
+Report Generation with State Space Model`.
 
 For reproduction of medication prediction results in our paper, see instructions below.
 
